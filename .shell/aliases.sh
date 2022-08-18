@@ -1,0 +1,1 @@
+alias "tf=tail -n 1000 -f"
